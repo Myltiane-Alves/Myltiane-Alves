@@ -7,10 +7,11 @@
   <a href="https://discordapp.com/users/Myltiane Alves#8088">
     <img src="https://img.shields.io/badge/Discord-gray?style=for-the-badge&logo=discord&logoColor=white" alt="Discord Badge"/>
   </a>
-  <h1>
+  <h1 >
     Hi there! I'm Myltiane Alves.
     <img src="https://developers.giphy.com/branch/master/static/api-512d36c09662682717108a38bbb5c57d.gif" width="30px"/>
   </h1>
+
 </div>
 
 <div align="center">
@@ -18,6 +19,7 @@
 </div>
 
 ---
+
 
 ### Sobre Mim:
 <div style="align: center"> 
@@ -51,16 +53,33 @@ Contato: </br>
 </div>
  FullStack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 
+
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/myltiane-alves/)
 
 ---
 
 
+<!-- ###  :
+![Myltiane-Alves](https://github-readme-stats.vercel.app/api?username=Myltiane-Alves&show_icons=true&theme=merko)  -->
 
-###  :
+<div align="center" >
+    <img width="100%" height="200px" src="https://github-readme-stats.vercel.app/api?username=Myltiane-Alves&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="Myltiane Alves github stats" /> 
 
-![Myltiane-Alves](https://github-readme-stats.vercel.app/api?username=Myltiane-Alves&show_icons=true&theme=merko) 
+<br/>
+ <img width="100%" height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Myltiane-Alves&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" />
 
+</div>
+
+
+<br/>
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Myltiane-Alves&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
+</div>
+
+
+
+<br/>
 <div> 
     <img 
         src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"
@@ -108,6 +127,11 @@ Contato: </br>
         src="https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=Sequelize&logoColor=white"
     />
 </div>
+
+  <div align="center">
+<br><p align="centre"><b>Visitors Count</b></p>  
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{Myltiane-Alves}/count.svg" /></p> 
+<br></div>
 
 
 
