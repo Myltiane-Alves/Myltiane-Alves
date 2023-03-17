@@ -26,7 +26,7 @@
     
 Prazer me chamo, Myltiane Alves de Lima Sou Graduado em Análises e Desenvolvimento de Sistemas e Pós-Graduado em Desenvolvimento web, hoje trabalho como Dev-Full-Stack Júnior com a Criação de Software.
 
-Tenho 2 anos de experiência no mercado de desenvolvimento, tive oportunidade de trabalhar e desenvolver diversos, projetos, participando de cada etapa, do processo do desenvolvimento desde de modelagem de dados, a programação.
+Trabalho mercado de desenvolvimento, tive oportunidade de trabalhar e desenvolver diversos, projetos, participando de cada etapa, do processo do desenvolvimento desde de modelagem de dados, a programação.
 
 
 → Área de atuação atual:
